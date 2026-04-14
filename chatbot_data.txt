@@ -1,0 +1,17 @@
+What is Python?|Python is a high-level programming language used for web, AI, and data science.
+Who created Python?|Python was created by Guido van Rossum in 1991.
+What is AI?|AI stands for Artificial Intelligence — machines that can mimic human intelligence.
+Who are you?|I am your friendly chatbot assistant.
+How are you?|I am just a program, but I am doing great! How about you?
+Open google|Opening Google for you!
+Open youtube|Opening YouTube for you!
+What is data science?|Data science is the field of analyzing data to extract meaningful insights and patterns.
+Tell me a joke|Sure! Why did the computer catch a cold? Because it had too many windows open!
+hii|hello
+How are you|i am good
+what is your name|my name is chitti
+please open youtube|www.youtube.com
+search python in google|search python in www.google.com
+what is python|search on google
+what is java|search on www.google.com
+what is c|search on google
